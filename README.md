@@ -5,6 +5,12 @@ ___
 * https://spring.io/guides/gs/gradle/#scratch
 * http://assemble.io/docs/Cheatsheet-Markdown.html
 
+# Execution
+___
+
+Since this is using the Gradle Wrapper:   
+`./gradlew run`
+
 # Gradle Wrapper
 ___
 * look at the last line of the build.gradle file for the wrapper task that will pull in the version of gradle to build with
