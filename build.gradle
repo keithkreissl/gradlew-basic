@@ -1,5 +1,8 @@
 apply plugin: 'java'
 apply plugin: 'eclipse-wtp'
+apply plugin: 'application'
+
+mainClassName = 'hello.HelloWorld'
 
 repositories{
 		mavenCentral()
